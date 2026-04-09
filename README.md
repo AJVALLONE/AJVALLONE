@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Anthony Vallone 👋
 
 **Front-End Developer · Digital Marketing Strategist · Chesapeake, VA**
