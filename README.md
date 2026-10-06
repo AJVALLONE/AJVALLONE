@@ -2,7 +2,7 @@
 
 **Front-End Developer · Digital Marketing Strategist · Chesapeake, VA**
 
-I've spent a decade driving measurable results through digital marketing — managing $80K+/month in
+I've spent a decade driving measurable results through digital marketing — managing $100K+/month in
 ad spend, scaling eCommerce brands from $10K to $300K/month, and building high-converting funnels
 and landing pages. Now I build the interfaces myself.
 
