@@ -12,9 +12,9 @@ and landing pages. Now I build the interfaces myself.
 
 | Project | Stack | Live |
 |---------|-------|------|
-| [Weather Dashboard](https://github.com/AJVALLONE/weather-dashboard) | HTML · CSS · JS · REST API | [View Live](https://ajvallone.netlify.app/weather-dashboard.html) |
-| [Task Manager](https://github.com/AJVALLONE/task-manager) | HTML · CSS · JS · LocalStorage | [View Live](https://ajvallone.netlify.app/task-manager.html) |
-| [Shop Front](https://github.com/AJVALLONE/shop-front) | HTML · CSS · JS · DOM | [View Live](https://ajvallone.netlify.app/ecommerce.html) |
+| [Weather Dashboard](https://github.com/AJVALLONE/weather-dashboard) | HTML · CSS · JS · REST API | [View Live](https://anthonyvallone.netlify.app/weather-dashboard) |
+| [Task Manager](https://github.com/AJVALLONE/task-manager) | HTML · CSS · JS · LocalStorage | [View Live](https://ajvallone.netlify.app/task-manager) |
+| [Shop Front](https://github.com/AJVALLONE/shop-front) | HTML · CSS · JS · DOM | [View Live](https://ajvallone.netlify.app/ecommerce) |
 | [Portfolio](https://github.com/AJVALLONE/portfolio) | HTML · CSS · JS | [View Live](https://ajvallone.netlify.app) |
 
 ---
